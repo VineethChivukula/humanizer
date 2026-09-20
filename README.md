@@ -6,10 +6,10 @@ The skill is designed for source-grounded developer documentation, including str
 
 ## Skill location
 
-The project skill is located at:
+The distributable skill is located at:
 
 ```text
-.github/skills/humanizer/
+skills/humanizer/
 ```
 
 The directory contains `SKILL.md` and the supporting templates, style rules, and Google developer documentation style-guide index used by the skill.
