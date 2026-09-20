@@ -1,8 +1,7 @@
 ---
 name: humanizer
-description: "Use when rewriting technical writing, personal notes, or explanations to make them clearer, warmer, more natural, and accessible while preserving accuracy."
-argument-hint: "Paste the text, describe the audience, and choose docs, explanation, or notes."
-user-invocable: true
+description: "Rewrite or create clear, accurate technical writing, documentation, explanations, and notes. Use for structured product documentation, including cloud and developer guides, when source material must be preserved and the output should be natural, accessible, and easy to scan."
+license: MIT
 ---
 
 # Humanizer
