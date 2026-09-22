@@ -37,7 +37,7 @@ Use tables for parameters, allowed values, defaults, limits, or comparisons. Put
 
 ## Limitations and related considerations
 
-Document relevant quotas, security, pricing, compatibility, or troubleshooting details.
+Document relevant constraints, risks, compatibility, or troubleshooting details.
 
 ## What's next
 

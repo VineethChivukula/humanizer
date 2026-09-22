@@ -1,26 +1,31 @@
 # [Topic]
 
-## What I need to remember
+## Overview
 
-- Key point one
-- Key point two
-- Key point three
+State the topic, purpose, and scope of these notes.
 
-## Why it matters
+## Key points
 
-Write why this topic is relevant or useful.
+- Key point one.
+- Key point two.
+- Key point three.
 
-## Key details
+## Context and details
 
-Capture important facts, constraints, or examples.
+Explain why the topic matters and record the facts, decisions, or examples that
+support the key points.
+
+## Decisions and recommendations
+
+Record confirmed decisions separately from proposed recommendations.
 
 ## Questions or uncertainties
 
-- Question one
-- Question two
+- Question one?
+- Question two?
 
 ## Next steps
 
-- Step one
-- Step two
-- Step three
+- Step one.
+- Step two.
+- Step three.

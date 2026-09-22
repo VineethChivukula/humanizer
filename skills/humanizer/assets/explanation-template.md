@@ -1,27 +1,30 @@
 # [Topic]
 
-## What it is
+## Overview
 
-Explain the concept in plain language.
+Define the topic and state what this explanation covers.
 
-## Why it matters
+## When it applies
 
-Describe its real-world value.
+Explain when the concept is relevant and mention an alternative or non-applicable
+case when that distinction helps the reader.
 
 ## How it works
 
-Break it down into simple steps or parts.
+Explain the mechanism in the order the reader needs it. Define important terms before
+using them.
 
 ## Example
 
-Show a concrete example.
+Show a concrete example, scenario, comparison, or code sample. Explain what it
+demonstrates.
 
-## Important details
+## Constraints and important details
 
-- Detail one
-- Detail two
-- Detail three
+- Detail one.
+- Detail two.
+- Detail three.
 
-## Quick takeaway
+## Takeaway
 
-Summarize the idea in one or two sentences.
+Summarize the concept and state the next useful topic or action.
